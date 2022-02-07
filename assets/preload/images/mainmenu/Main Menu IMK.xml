@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Main Menu IMK.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Imk Menu Idle0000" x="8" y="8" width="590" height="675" frameX="0" frameY="-28" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0001" x="606" y="8" width="590" height="675" frameX="-1" frameY="-28" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0002" x="1204" y="8" width="592" height="677" frameX="-1" frameY="-26" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0003" x="1804" y="8" width="594" height="680" frameX="-2" frameY="-23" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0004" x="2406" y="8" width="604" height="689" frameX="-4" frameY="-14" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0005" x="3018" y="8" width="613" height="698" frameX="-7" frameY="-5" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0006" x="8" y="714" width="616" height="701" frameX="-8" frameY="-2" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0007" x="632" y="714" width="617" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0008" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0009" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0010" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0011" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0012" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+	<SubTexture name="Imk Menu Idle0013" x="1257" y="714" width="618" height="703" frameX="-8" frameY="0" frameWidth="626" frameHeight="703"/>
+</TextureAtlas>
