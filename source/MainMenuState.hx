@@ -146,7 +146,7 @@ class MainMenuState extends MusicBeatState
 		}
 		#end
 
-		imk = new FlxSprite(711.65, 355.25);
+		imk = new FlxSprite(711.65, 110);
         imk.frames = Paths.getSparrowAtlas('mainmenu/Main Menu IMK');
         imk.animation.addByPrefix('idle', 'Imk Menu Idle', 24);
         imk.antialiasing = ClientPrefs.globalAntialiasing;
